@@ -1,2 +1,3 @@
-# Continual-Learning-101
-A repo illustrating the basics of Continual Learning. 
+# Continual Learning 101
+
+- [Forgetting.ipynb](https://github.com/JosephKJ/Continual-Learning-101/blob/main/Forgetting.ipynb) illustrates catastrophic forgetting in a class incremental setting with MNIST.
